@@ -1,0 +1,38 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.6.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "event": "^1.0.0",
+    "express": "~4.16.0",
+    "express-rate-limit": "^3.5.3",
+    "fs": "0.0.1-security",
+    "helmet": "^3.16.0",
+    "http-errors": "~1.6.2",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^6.1.4",
+    "moment": "^2.24.0",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.5",
+    "morgan": "~1.9.0",
+    "nocache": "^2.0.0",
+    "nodemailer": "^6.1.1",
+    "path": "^0.12.7",
+    "promise": "^8.0.3",
+    "pug": "2.0.0-beta11",
+    "request": "^2.88.0",
+    "swagger-express-middleware": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
