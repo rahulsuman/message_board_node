@@ -28,7 +28,7 @@
     "nodemailer": "^6.1.1",
     "path": "^0.12.7",
     "promise": "^8.0.3",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "request": "^2.88.0",
     "swagger-express-middleware": "^2.0.2"
   },
