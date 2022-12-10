@@ -13,7 +13,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "event": "^1.0.0",
-    "express": "~4.16.0",
+    "express": "~4.17.3",
     "express-rate-limit": "^3.5.3",
     "fs": "0.0.1-security",
     "helmet": "^3.16.0",
